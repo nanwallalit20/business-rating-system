@@ -146,6 +146,17 @@ http://localhost/business-rating-system/
 
 ---
 
+📷 Screenshots
+
+<img width="2922" height="1486" alt="Screenshot from 2026-02-10 23-03-22" src="https://github.com/user-attachments/assets/2caf6328-05e8-4163-873b-cf7133b9f284" />
+<img width="2922" height="1486" alt="Screenshot from 2026-02-10 23-03-39" src="https://github.com/user-attachments/assets/3ddbc4b4-8339-4169-b5dc-dd4c574776e4" />
+<img width="2922" height="1486" alt="Screenshot from 2026-02-10 23-03-50" src="https://github.com/user-attachments/assets/abf75de4-66c0-47ea-8e8d-94f3ded96c1a" />
+<img width="2922" height="1486" alt="Screenshot from 2026-02-10 23-04-01" src="https://github.com/user-attachments/assets/11f2aade-1329-42e0-a84e-db7098cf3890" />
+<img width="2922" height="1486" alt="Screenshot from 2026-02-10 23-04-46" src="https://github.com/user-attachments/assets/109d3c80-124c-4f9c-8410-bea51816b489" />
+<img width="2922" height="1486" alt="Screenshot from 2026-02-10 23-05-02" src="https://github.com/user-attachments/assets/d49d7715-8b5f-4f1c-8987-1b6957980389" />
+
+---
+
 ## 👤 Author
 
 **Lalit Nanwal**
